@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Devin McDaniel
 ## PERN Stack Developer
-With a background in music, I enjoy the art of combining multiple elements into a seamless, beautiful composition. My transition to web development has allowed me to use those skills to create user-friendly and visually appealing websites. I am growth-oriented and always open to learning new topics and improving my skills!
+With a background in music, I enjoy the art of combining multiple elements into a seamless, beautiful composition. My transition to web development has allowed me to use those skills to create performant and visually appealing web applications . I am growth-oriented and always open to learning new topics and improving my skills!
 
 * 🌍  I'm based in Swindon, United Kingdom
 * 🖥️  See my portfolio at [devinmcdaniel.tech](http://www.devinmcdaniel.tech)
