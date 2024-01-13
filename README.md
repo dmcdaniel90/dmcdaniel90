@@ -5,8 +5,8 @@ With a background in music, I enjoy the art of combining multiple elements into 
 * 🌍  I'm based in Swindon, United Kingdom
 * 🖥️  See my portfolio at [devinmcdaniel.tech](http://www.devinmcdaniel.tech)
 * ✉️  You can contact me at [dmcdaniel9@gmail.com](mailto:dmcdaniel9@gmail.com)
-* 🚀  I'm currently working on [SmartBrain (Version 2)](http://github.com/dmcdaniel90/smartbrain)
-* 🧠  I'm learning React/Redux and Typescript
+* 🚀  I'm currently working on [SmartBrain (Version 2)](http://github.com/dmcdaniel90/smartbrain) and [Socket.io Chat App](http://github.com/dmcdaniel90/chatapp)
+* 🧠  I'm learning React and Typescript
 * ⚡  I'm also a professional saxophonist! 🎷
 
 ### Skills
