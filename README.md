@@ -1,12 +1,12 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Devin McDaniel
-## PERN Stack Developer
+## Fullstack Web Developer
 With a background in music, I enjoy the art of combining multiple elements into a seamless, beautiful composition. My transition to web development has allowed me to use those skills to create performant and visually appealing web applications . I am growth-oriented and always open to learning new topics and improving my skills!
 
 * 🌍  I'm based in Swindon, United Kingdom
 * 🖥️  See my portfolio at [devinmcdaniel.tech](http://www.devinmcdaniel.tech)
 * ✉️  You can contact me at [dmcdaniel9@gmail.com](mailto:dmcdaniel9@gmail.com)
-* 🚀  I'm currently working on [SmartBrain (Version 3)](http://github.com/dmcdaniel90/smartbrain)
-* 🧠  I'm learning React with Typescript, and some DevOps (Docker, Redis, AWS) 
+* 🚀  I'm currently working on [SmartBrain (Version 3)](http://github.com/dmcdaniel90/smartbrain) & a personal blog website in Astro
+* 🧠  I'm learning Astro 
 * ⚡  I'm also a professional saxophonist! 🎷
 
 ### Skills
@@ -18,6 +18,7 @@ With a background in music, I enjoy the art of combining multiple elements into 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" width="36" height="36" alt="Astro" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
