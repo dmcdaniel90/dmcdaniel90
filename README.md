@@ -1,12 +1,12 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Devin McDaniel
-## Fullstack Web Developer
-With a background in music, I enjoy the art of combining multiple elements into a seamless, beautiful composition. My transition to web development has allowed me to use those skills to create performant and visually appealing web applications . I am growth-oriented and always open to learning new topics and improving my skills!
+## Web Developer
+I am the Systems Developer for The Rolo Group, where I currently lead the UI/UX Design and Web Development processes. I am also a student at Zero to Mastery Academy, where I get to learn and work with modern technologies, such as NextJS, Figma, AI, and more.
 
 * 🌍  I'm based in Swindon, United Kingdom
 * 🖥️  See my portfolio at [devinmcdaniel.tech](http://www.devinmcdaniel.tech)
 * ✉️  You can contact me at [dmcdaniel9@gmail.com](mailto:dmcdaniel9@gmail.com)
-* 🚀  I'm currently working on [SmartBrain (Version 3)](http://github.com/dmcdaniel90/smartbrain) & a personal blog website in Astro
-* 🧠  I'm learning Astro 
+* 🚀  I'm currently working on mini-projects using native Web APIs and building a company design system.
+* 🧠  I'm learning UI/UX Design, Tailwind CSS, and Web APIs 
 * ⚡  I'm also a professional saxophonist! 🎷
 
 ### Skills
