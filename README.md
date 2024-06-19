@@ -5,8 +5,8 @@ I am the Systems Developer for The Rolo Group, where I currently lead the UI/UX 
 * 🌍  I'm based in Swindon, United Kingdom
 * 🖥️  See my portfolio at [devinmcdaniel.tech](http://www.devinmcdaniel.tech)
 * ✉️  You can contact me at [dmcdaniel9@gmail.com](mailto:dmcdaniel9@gmail.com)
-* 🚀  I'm currently working on mini-projects using native Web APIs and building a company design system.
-* 🧠  I'm learning UI/UX Design, Tailwind CSS, and Web APIs 
+* 🚀  I'm currently working for The Rolo Group as the Systems Developer
+* 🧠  I'm learning UI/UX Design, Tailwind CSS, and HubSpot CRM
 * ⚡  I'm also a professional saxophonist! 🎷
 
 ### Skills
