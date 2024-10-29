@@ -6,7 +6,7 @@ I am the Systems Developer for The Rolo Group, where I currently lead the UI/UX 
 * 🖥️  See my portfolio at [devinmcdaniel.tech](http://www.devinmcdaniel.tech)
 * ✉️  You can contact me at [dmcdaniel9@gmail.com](mailto:dmcdaniel9@gmail.com)
 * 🚀  I'm currently working for The Rolo Group as the Systems Developer
-* 🧠  I'm learning UI/UX Design, Tailwind CSS, and HubSpot CRM
+* 🧠  I'm learning Sharepoint Development with SPFx and Typescript
 * ⚡  I'm also a professional saxophonist! 🎷
 
 ### Skills
