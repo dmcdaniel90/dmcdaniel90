@@ -81,16 +81,9 @@ I am the Systems Developer for The Rolo Group, where I currently lead the UI/UX 
   <a href="https://github.com/dmcdaniel90/robo-joke-teller">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcdaniel90&repo=robo-joke-teller&theme=shades-of-purple" />
   </a>
-<!--   <a href="https://github.com/dmcdaniel90/saxcoderblog">
-    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcdaniel90&repo=saxcoderblog&theme=shades-of-purple" />
-  </a> -->
 </div>
 <br>
-<br>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/dmcdaniel9"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 <!---
 dmcdaniel90/dmcdaniel90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
