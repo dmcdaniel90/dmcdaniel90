@@ -3,11 +3,11 @@
 I am the Systems Developer for The Rolo Group, where I currently lead the UI/UX Design and Web Development processes. I am also a Zero to Mastery Academy student, where I learn and work with modern technologies, such as NextJS, Figma, AI, and more.
 
 * 🌍  I'm based in Swindon, United Kingdom
-* 🖥️  Working on a new portfolio site; watch this space!
+* 🖥️  Working as Systems Developer for The Rolo Group
 * ✉️  You can contact me at [dmcdaniel9@gmail.com](mailto:dmcdaniel9@gmail.com)
-* 🚀  I'm currently working for The Rolo Group as the Systems Developer
-* 🧠  I'm learning React, PostgreSQL, and AI Development
-* ⚡  I'm also a professional saxophonist! 🎷
+* 🧠  Learning full-stack development with React TS, Node/ExpressJS and PostgreSQL
+* ☘️  Building a Linux developer environment on my backup machine
+* 🎷  Professional saxophonist
 
 ### Skills
 
@@ -26,6 +26,8 @@ I am the Systems Developer for The Rolo Group, where I currently lead the UI/UX 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<a href="https://linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
 ### Socials
