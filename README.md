@@ -74,6 +74,7 @@ I am the Systems Developer for The Rolo Group, where I currently lead the UI/UX 
   </a>
 </div>
 <br>
+<br>
 
 <!-- Row 4 -->
 <div>
@@ -84,6 +85,7 @@ I am the Systems Developer for The Rolo Group, where I currently lead the UI/UX 
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcdaniel90&repo=saxcoderblog&theme=shades-of-purple" />
   </a>
 </div>
+<br>
 <br>
 
 ### Support Me
