@@ -35,10 +35,56 @@ I am the Systems Developer for The Rolo Group, where I currently lead the UI/UX 
 
 ### Badges
 
-<a href="https://github.com/dmcdaniel90" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmcdaniel90&langs_count=10&theme=shades-of-purple&text_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=css&layout=donut-vertical" alt="Top Languages" /></a>
+<a href="https://github.com/dmcdaniel90" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmcdaniel90&langs_count=10&theme=shades-of-purple&text_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=css&layout=donut" alt="Top Languages" /></a>
 
-![Devin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmcdaniel90&show_icons=true&theme=shades-of-purple&hide=stars,contribs&rank_icon=github&include_all_commits=true)
+![Devin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmcdaniel90&show_icons=true&theme=shades-of-purple&hide=stars,contribs&rank_icon=github&include_all_commits=true&)
 
+### Featured Projects
+
+<!-- Row 1 -->
+<div>
+  <a href="https://github.com/dmcdaniel90/smartbrain">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcdaniel90&repo=smartbrain&theme=shades-of-purple" />
+  </a>
+  <a href="https://github.com/dmcdaniel90/smartbrainapi">
+    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcdaniel90&repo=smartbrainapi&theme=shades-of-purple" />
+  </a>
+</div>
+<br>
+
+<!-- Row 2 -->
+<div>
+  <a href="https://github.com/dmcdaniel90/rangefinder">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcdaniel90&repo=rangefinder&theme=shades-of-purple" />
+  </a>
+  <a href="https://github.com/dmcdaniel90/whos-that-pokemon">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcdaniel90&repo=whos-that-pokemon&theme=shades-of-purple" />
+  </a>
+</div>
+<br>
+<br>
+
+<!-- Row 3 -->
+<div>
+  <a href="https://github.com/dmcdaniel90/c-accountingapp">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcdaniel90&repo=c-accountingapp&theme=shades-of-purple" />
+  </a>
+  <a href="https://github.com/dmcdaniel90/portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcdaniel90&repo=portfolio&theme=shades-of-purple" />
+  </a>
+</div>
+<br>
+
+<!-- Row 4 -->
+<div>
+  <a href="https://github.com/dmcdaniel90/robo-joke-teller">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcdaniel90&repo=robo-joke-teller&theme=shades-of-purple" />
+  </a>
+  <a href="https://github.com/dmcdaniel90/saxcoderblog">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcdaniel90&repo=saxcoderblog&theme=shades-of-purple" />
+  </a>
+</div>
+<br>
 
 ### Support Me
 
