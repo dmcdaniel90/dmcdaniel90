@@ -44,11 +44,10 @@ I am the Systems Developer for The Rolo Group, where I currently lead the UI/UX 
 <!-- Row 1 -->
 <div>
   <a href="https://github.com/dmcdaniel90/smartbrain">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcdaniel90&repo=smartbrain&theme=shades-of-purple" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcdaniel90&repo=smartbrain&theme=shades-of-purple"/>
   </a>
-  <br>
   <a href="https://github.com/dmcdaniel90/smartbrainapi">
-    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcdaniel90&repo=smartbrainapi&theme=shades-of-purple" />
+    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcdaniel90&repo=smartbrainapi&theme=shades-of-purple"/>
   </a>
 </div>
 <br>
@@ -56,11 +55,10 @@ I am the Systems Developer for The Rolo Group, where I currently lead the UI/UX 
 <!-- Row 2 -->
 <div>
   <a href="https://github.com/dmcdaniel90/rangefinder">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcdaniel90&repo=rangefinder&theme=shades-of-purple" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcdaniel90&repo=rangefinder&theme=shades-of-purple"/>
   </a>
-  <br>
   <a href="https://github.com/dmcdaniel90/whos-that-pokemon">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcdaniel90&repo=whos-that-pokemon&theme=shades-of-purple" />
+    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcdaniel90&repo=whos-that-pokemon&theme=shades-of-purple"/>
   </a>
 </div>
 <br>
@@ -71,9 +69,8 @@ I am the Systems Developer for The Rolo Group, where I currently lead the UI/UX 
   <a href="https://github.com/dmcdaniel90/c-accountingapp">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcdaniel90&repo=c-accountingapp&theme=shades-of-purple" />
   </a>
-  <br>
   <a href="https://github.com/dmcdaniel90/portfolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcdaniel90&repo=portfolio&theme=shades-of-purple" />
+    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcdaniel90&repo=portfolio&theme=shades-of-purple" />
   </a>
 </div>
 <br>
@@ -86,7 +83,7 @@ I am the Systems Developer for The Rolo Group, where I currently lead the UI/UX 
   </a>
   <br<
   <a href="https://github.com/dmcdaniel90/saxcoderblog">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcdaniel90&repo=saxcoderblog&theme=shades-of-purple" />
+    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcdaniel90&repo=saxcoderblog&theme=shades-of-purple" />
   </a>
 </div>
 <br>
