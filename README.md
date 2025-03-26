@@ -35,7 +35,8 @@ I am the Systems Developer for The Rolo Group, where I currently lead the UI/UX 
 
 ### Badges
 
-<a href="https://github.com/dmcdaniel90" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmcdaniel90&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/dmcdaniel90" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmcdaniel90&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=css&layout=donut-vertical" alt="Top Languages" /></a>
+
 
 ### Support Me
 
