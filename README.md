@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Devin McDaniel
-## Web Developer
-I am the Systems Developer for The Rolo Group, where I currently lead the UI/UX Design and Web Development processes. I am also a Zero to Mastery Academy student, where I learn and work with modern technologies, such as NextJS, Figma, AI, and more.
+## Web & Software Developer
+As the systems developer for The Rolo Group, I manage our IT services and web infrastructure. Also, I study at Zero to Mastery Academy, where I learn and work with modern technologies, such as NextJS, Figma, AI technology, and more.
 
 * 🌍  I'm based in Swindon, United Kingdom
 * 🖥️  Working as Systems Developer for The Rolo Group
