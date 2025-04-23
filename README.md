@@ -5,7 +5,8 @@ As the systems developer for The Rolo Group, I manage our IT services and web in
 * 🌍  I'm based in Swindon, United Kingdom
 * 🖥️  Working as Systems Developer for The Rolo Group
 * ✉️  You can contact me at [dmcdaniel9@gmail.com](mailto:dmcdaniel9@gmail.com)
-* 🧠  Learning full-stack development with React TS, Node/ExpressJS and PostgreSQL
+* 🧠  Learning full-stack development with React TS, Node/ExpressJS, C#/.NET and PostgreSQL
+* 🤖  AI enthusiast - I create chatbots to accelerate my learning growth!
 * ☘️  Building a Linux developer environment on my backup machine
 * 🎷  Professional saxophonist
 
